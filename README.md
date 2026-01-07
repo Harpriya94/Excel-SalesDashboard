@@ -5,12 +5,4 @@ This project is to demonstrate my Data Visualization skills in Excel.
 ![](/assets/images/RawData.png)
 
 ### Final Dashboard
-![](assets/images/Dashboard.png)
-
-<p align="center">
-  <video src="https://github.com/Harpriya94/Excel-SalesDashboard/blob/main/assets/images/DashboardRecording.mp4" width="500px"></video>
-</p>
-
-<video src="https://github.com/Harpriya94/Excel-SalesDashboard/blob/main/assets/images/DashboardRecording.mp4" width="320" height="240" controls></video>
-
-![SalesDashboard](https://github.com/Harpriya94/Excel-SalesDashboard/blob/main/assets/images/DashboardRecording.mp4)
+https://github.com/user-attachments/assets/05217f1e-ab79-480e-814d-4c4a0dfc986e
